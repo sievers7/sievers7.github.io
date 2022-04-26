@@ -315,11 +315,11 @@ input, select, textarea {
 
 	code {
 		background: rgba(220, 220, 220, 0.25);
-		border-color: #eeeeee;
+		border-color: #318f49;
 	}
 
 	hr {
-		border-bottom-color: #eeeeee;
+		border-bottom-color: #3e924c;
 	}
 
 /* Row */
@@ -3234,7 +3234,7 @@ input, select, textarea {
 			width: 100%;
 			height: 100%;
 			background-color: #212931;
-			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");
+			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/BGunclepetr.JPG");
 			background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;
 			background-repeat: repeat,								no-repeat,													no-repeat;
@@ -4644,7 +4644,7 @@ input, select, textarea {
 			}
 
 			#navPanel .close:hover {
-				color: #2e553e;
+				color: #212931;
 			}
 
 			@media screen and (max-width: 736px) {
