@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #bdf77b;
+		background-color: #cce9aa;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3756,7 +3756,7 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background-color: #ffffff;
+		background-color: #ebf7ea;
 		position: relative;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
@@ -3766,8 +3766,20 @@ input, select, textarea {
 
 		#main > * {
 			padding: 4rem 4rem 2rem 4rem ;
-			border-top: solid 2px #eeeeee;
-			margin: 0;
+			border-top: solid 2px #24631f;
+			margin: 3;
+			padding: 4rem 4rem 2rem 4rem ;
+			border-left: solid 2px #24631f;
+			margin: 3;
+			padding: 4rem 4rem 2rem 4rem ;
+			border-right: solid 2px #24631f;
+			margin: 3;
+			padding: 4rem 4rem 2rem 4rem ;
+			border-bottom: solid 2px #24631f;
+			margin: 3;
+		}
+		}
+		}
 		}
 
 			#main > *:first-child {
